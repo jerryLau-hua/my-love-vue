@@ -129,8 +129,6 @@ body {
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
     margin-bottom: 30px;
     animation: fadeInSection 0.8s ease-out;
-    min-height: 200px; /* 临时添加，观察效果 */
-    border: 1px dashed blue; /* 临时添加，观察边界 */
 }
 
 .content-section.active-section {
