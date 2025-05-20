@@ -35,8 +35,8 @@ import ReasonsSection from './components/ReasonsSection.vue';
 import WishSection from './components/WishSection.vue';
 
 // --- 【重要】配置区 ---
-const girlfriendName = ref("AAA"); // 在这里修改成你女朋友的名字
-const yourName = ref("BBB");       // 在这里修改成你的名字
+const girlfriendName = ref("TomVin"); // 在这里修改成你女朋友的名字
+const yourName = ref("JerryLau");       // 在这里修改成你的名字
 // --- 配置区结束 ---
 
 const menuItems = ref([
