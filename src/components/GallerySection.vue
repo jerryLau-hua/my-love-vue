@@ -43,77 +43,77 @@ const travelStops = ref([
     id: 1,
     imageUrl: '/img01_220910.png',
     date: '2022-09-10',
-    location: '[第一次牵手·jinan]',
+    location: '[第一次牵手·📍jinan]',
     description: ''
   },
   {
     id: 2,
     imageUrl: '/img01_220910.jpg',
     date: '2022-09-10',
-    location: '[第一次电影·jinan]',
+    location: '[第一次电影·📍jinan]',
     description: ''
   },
   {
     id: 3,
     imageUrl: '/img_4.png',
     date: '2022-09-13',
-    location: '[某一把游戏·jinan]',
+    location: '[某一把游戏·📍jinan]',
     description: ''
   },
   {
     id: 4,
     imageUrl: '/img02_230430.png',
     date: '2023-04-30',
-    location: '[另一次牵手·tai‘an]',
+    location: '[另一次牵手·📍tai‘an]',
     description: ''
   },
   {
     id: 5,
     imageUrl: '/img03_230502.png',
     date: '2023-05-02',
-    location: '[笔芯·tai‘an]',
+    location: '[笔芯·📍tai‘an]',
     description: ''
   },
   {
     id: 6,
     imageUrl: '/image2.jpg',
     date: '2023-06-05',
-    location: '[千佛山的晚霞·jinan]',
+    location: '[千佛山的晚霞·📍jinan]',
     description: ''
   },
   {
     id: 7,
     imageUrl: '/img_3.png',
     date: '2023-07-01',
-    location: '[去吃烧烤啦·zibo]',
+    location: '[去吃烧烤啦·📍zibo]',
     description: ''
   },
   {
     id: 8,
     imageUrl: '/img_5.png',
     date: '2024-05-01',
-    location: '[海边·qingdao]',
+    location: '[海边·📍qingdao]',
     description: ''
   },
   {
     id: 9,
     imageUrl: '/img_6.png',
     date: '2024-05-01',
-    location: '[海边·qingdao]',
+    location: '[海边·📍qingdao]',
     description: ''
   },
   {
     id: 10,
     imageUrl: '/img_2.png',
     date: '2024-05-01',
-    location: '[海边·qingdao]',
+    location: '[海边·📍qingdao]',
     description: ''
   },
   {
     id: 11,
     imageUrl: '/img.png',
     date: '2025-05-03',
-    location: '[路边·jinan]',
+    location: '[路边·📍jinan]',
     description: ''
   },
 ]);
